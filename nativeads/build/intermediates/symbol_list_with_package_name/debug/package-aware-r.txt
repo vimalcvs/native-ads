@@ -1,0 +1,14 @@
+com.google.android.ads.nativetemplates
+attr gnt_template_type
+drawable ad_mark
+drawable shape_result_bottom_ad_bt
+id body
+id cta
+id icon
+id material_card
+id media_view
+id native_ad_view
+id primary
+layout gnt_medium_template_view
+layout gnt_small_template_view
+styleable TemplateView gnt_template_type

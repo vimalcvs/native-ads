@@ -1,0 +1,14 @@
+int attr gnt_template_type 0x0
+int drawable ad_mark 0x0
+int drawable shape_result_bottom_ad_bt 0x0
+int id body 0x0
+int id cta 0x0
+int id icon 0x0
+int id material_card 0x0
+int id media_view 0x0
+int id native_ad_view 0x0
+int id primary 0x0
+int layout gnt_medium_template_view 0x0
+int layout gnt_small_template_view 0x0
+int[] styleable TemplateView { 0x0 }
+int styleable TemplateView_gnt_template_type 0
